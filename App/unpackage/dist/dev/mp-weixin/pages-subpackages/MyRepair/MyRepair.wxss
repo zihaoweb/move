@@ -1,0 +1,29 @@
+.content.data-v-12829686 {
+  min-height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.content .scrollTabBar.data-v-12829686 {
+  width: 100%;
+  height: 80rpx;
+  white-space: nowrap;
+  border-bottom: 3rpx solid #DDDDDD;
+}
+.content .scrollTabBar .scrollItem.data-v-12829686 {
+  display: inline-block;
+  padding: 10rpx 30rpx;
+  font-size: 36rpx;
+}
+.content .scrollTabBar .scrollItem .active.data-v-12829686 {
+  padding: 19rpx 0;
+  color: #00C260;
+  border-bottom: 6rpx solid #00C260;
+}
+.content .swiperss.data-v-12829686 {
+  flex-grow: 1;
+}
+.content .swiperss .swiper-item.data-v-12829686 {
+  overflow: scroll;
+}
+

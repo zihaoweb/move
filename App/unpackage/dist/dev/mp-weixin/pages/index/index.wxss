@@ -1,0 +1,101 @@
+.content.data-v-57280228 {
+  padding: 20rpx;
+}
+.content .swiper_box.data-v-57280228 {
+  margin-bottom: 20rpx;
+  height: 100%;
+  border-radius: 20rpx;
+}
+.content .swiper_box uni-image.data-v-57280228 {
+  height: 100%;
+}
+.content .swiper_box .swiper-item.data-v-57280228 {
+  height: 100%;
+}
+.content .swiper_box .swiper-item ._img.data-v-57280228 {
+  height: 100%;
+}
+.content .swiper_box image.data-v-57280228 {
+  border-radius: 10rpx;
+  width: 100%;
+  height: 100%;
+}
+.content .main.data-v-57280228 {
+  margin-bottom: 20rpx;
+}
+.content .top-cord.data-v-57280228 {
+  margin-bottom: 20rpx;
+  display: flex;
+  justify-content: space-between;
+}
+.content .top-cord uni-image.data-v-57280228 {
+  width: 100%;
+  height: 280rpx;
+}
+.content .top-cord .left.data-v-57280228 {
+  width: 48%;
+  height: 289rpx;
+  flex: 0 0 49%;
+}
+.content .top-cord .left uni-image.data-v-57280228 {
+  width: 100%;
+}
+.content .top-cord .right.data-v-57280228 {
+  width: 49%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  flex: 0 0 49%;
+}
+.content .top-cord .right image.data-v-57280228 {
+  height: 138rpx;
+}
+.content .top-cord image.data-v-57280228 {
+  width: 100%;
+  height: 100%;
+}
+.content .down-cord.data-v-57280228 {
+  display: flex;
+  justify-content: space-between;
+}
+.content .down-cord .item.data-v-57280228 {
+  flex: 0 0 25%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 150rpx;
+  width: 150rpx;
+  flex-direction: column;
+}
+.content .down-cord .item image.data-v-57280228 {
+  width: 100rpx;
+  height: 100rpx;
+}
+.content .footer ._h2.data-v-57280228 {
+  margin-bottom: 20rpx;
+}
+.content .footer .content.data-v-57280228 {
+  padding: 0;
+  display: flex;
+}
+.content .footer .content .img.data-v-57280228 {
+  margin-right: 20rpx;
+}
+.content .footer .content .img image.data-v-57280228 {
+  border-radius: 10rpx;
+  width: 200rpx;
+  height: 200rpx;
+}
+.content .footer .content .right.data-v-57280228 {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.content .footer .content .right .title.data-v-57280228 {
+  font-size: 40rpx;
+  font-weight: 300;
+}
+.content .footer .content .right .tag.data-v-57280228 {
+  margin-right: 20rpx;
+}
+

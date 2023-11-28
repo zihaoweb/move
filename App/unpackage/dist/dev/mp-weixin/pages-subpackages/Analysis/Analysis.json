@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "数据统计",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "echarts": "/components/Echarts/Echarts"
+  }
+}

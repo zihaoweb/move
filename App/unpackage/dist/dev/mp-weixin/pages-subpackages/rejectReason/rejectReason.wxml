@@ -1,0 +1,1 @@
+<view><u--textarea bind:input="__e" vue-id="23daf600-1" height="100" placeholder="请输入驳回原因" value="{{reason}}" data-event-opts="{{[['^input',[['__set_model',['','reason','$event',[]]]]]]}}" bind:__l="__l"></u--textarea><button data-event-opts="{{[['tap',[['reject',['$event']]]]]}}" class="btn" style="color:#fff;" bindtap="__e">提 交</button></view>

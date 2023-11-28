@@ -1,0 +1,1 @@
+<view class="content data-v-f8bbec34"><view class="header data-v-f8bbec34"><text class="title data-v-f8bbec34">累计报修量(单)</text><text class="count data-v-f8bbec34">22</text></view><echarts style="height:110vw;margin-left:2vw;width:100%;padding:4vw 0 0 0;" vue-id="1ec09840-1" option="{{option}}" id="myChart" class="data-v-f8bbec34" bind:__l="__l"></echarts></view>

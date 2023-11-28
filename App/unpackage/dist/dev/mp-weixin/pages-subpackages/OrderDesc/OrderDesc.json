@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "报修详情",
+  "enablePullDownRefresh": false,
+  "navigationBarBackgroundColor": "#00C260",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {}
+}

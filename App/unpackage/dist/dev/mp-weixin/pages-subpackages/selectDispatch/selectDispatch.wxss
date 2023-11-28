@@ -1,0 +1,23 @@
+.container.data-v-c0810c34 {
+  margin: 40rpx;
+  font-size: 40rpx;
+}
+.container .main.data-v-c0810c34 {
+  display: flex;
+  justify-content: space-between;
+  height: 100rpx;
+  line-height: 100rpx;
+}
+.container .main .select.data-v-c0810c34 {
+  color: #999;
+}
+.btn.data-v-c0810c34 {
+  color: #fff;
+  background-color: #00C260;
+  box-shadow: 0px 0px 10px 0px #00C260;
+  margin-top: 20rpx;
+  border-radius: 50rpx;
+  height: 100rpx;
+  line-height: 100rpx;
+}
+

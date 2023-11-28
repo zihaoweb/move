@@ -1,0 +1,7 @@
+Server
+运行环境:NodeJs >=14,开发者工具：VsCode
+打开代码 -- > npm i --> npm run dev
+
+App:
+运行环境：无，开发者工具：HBuilderX
+打开代码 --> npm i --> npm run dev

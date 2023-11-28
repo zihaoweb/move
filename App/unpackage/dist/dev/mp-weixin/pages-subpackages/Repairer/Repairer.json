@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "维修列表",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "card": "/components/Card/Card"
+  }
+}

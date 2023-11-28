@@ -1,0 +1,21 @@
+.header.data-v-f8bbec34 {
+  background: linear-gradient(to bottom right, #00C260, #41C781);
+  height: 20vh;
+  display: flex;
+  flex-direction: column;
+  padding-top: 100rpx;
+  box-sizing: border-box;
+  align-items: center;
+}
+.header .title.data-v-f8bbec34 {
+  color: #fff;
+  font-size: 30rpx;
+  font-family: fantasy;
+}
+.header .count.data-v-f8bbec34 {
+  color: #fff;
+  font-size: 60rpx;
+  margin-top: 30rpx;
+  font-family: fantasy;
+}
+

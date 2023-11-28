@@ -1,0 +1,1 @@
+<view class="data-v-6287f48c"><view class="echarts data-v-6287f48c" prop="{{option}}" change:prop="{{echarts.update}}"></view></view>

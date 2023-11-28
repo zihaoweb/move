@@ -1,0 +1,24 @@
+page.data-v-61079bc4 {
+  background-color: #F6F6F6;
+}
+.title.data-v-61079bc4 {
+  font-size: 60rpx;
+  text-align: center;
+}
+.item.data-v-61079bc4 {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+.item .box.data-v-61079bc4 {
+  width: 45%;
+}
+.item .box .title.data-v-61079bc4 {
+  display: flex;
+  justify-content: center;
+  font-size: 40rpx;
+}
+.item .box video.data-v-61079bc4 {
+  width: 100%;
+}
+

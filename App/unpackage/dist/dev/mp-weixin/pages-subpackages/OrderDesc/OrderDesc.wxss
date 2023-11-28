@@ -1,0 +1,52 @@
+.m.data-v-5e8a8126 {
+  margin: 20rpx;
+  background-color: #fff;
+  border-radius: 20rpx;
+}
+.f.data-v-5e8a8126 {
+  display: flex;
+  margin: 20rpx 0;
+}
+.box2312.data-v-5e8a8126 {
+  height: 100vh;
+  background-color: #f6f6f6;
+}
+.box2312 .state.data-v-5e8a8126 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 120rpx;
+}
+.box2312 .stateIcon.data-v-5e8a8126 {
+  width: 50rpx;
+  height: 50rpx;
+  margin-right: 20rpx;
+}
+.box2312 .top .uInfo.data-v-5e8a8126 {
+  padding: 0 20rpx 20rpx;
+}
+.box2312 .top .uInfo .text.data-v-5e8a8126 {
+  color: #ccc;
+  width: 150rpx;
+}
+.box2312 .top .uInfo .title.data-v-5e8a8126 {
+  line-height: 80rpx;
+  font-weight: bold;
+  border-bottom: 1px solid #ccc;
+}
+.box2312 .footer.data-v-5e8a8126 {
+  height: 160rpx;
+  background-color: #fff;
+  border-top: 1px solid #ccc;
+  box-shadow: 15px #ddd;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+.box2312 .footer .recall.data-v-5e8a8126 {
+  width: 200rpx;
+  float: right;
+  top: 20rpx;
+  right: 20rpx;
+}
+

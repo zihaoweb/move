@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "管理员",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "card": "/components/Card/Card"
+  }
+}

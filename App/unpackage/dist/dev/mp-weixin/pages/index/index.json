@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "uni-app",
+  "usingComponents": {
+    "my-navbar": "/components/my-navbar/my-navbar"
+  }
+}

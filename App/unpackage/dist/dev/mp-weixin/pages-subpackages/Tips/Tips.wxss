@@ -1,0 +1,10 @@
+.title.data-v-7194c3e6 {
+  display: flex;
+  justify-content: center;
+  font-size: 60rpx;
+}
+image.data-v-7194c3e6 {
+  width: 750rpx;
+  height: 900rpx;
+}
+

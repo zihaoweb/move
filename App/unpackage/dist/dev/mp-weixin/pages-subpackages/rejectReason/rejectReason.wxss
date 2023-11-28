@@ -1,0 +1,12 @@
+page {
+  background-color: #f6f6f6;
+}
+.btn {
+  margin-top: 200rpx;
+  width: 100%;
+  height: 100rpx;
+  border-radius: 50rpx;
+  background-color: #00c260;
+  box-shadow: 0 0 15rpx #00c260;
+}
+

@@ -1,0 +1,39 @@
+.content.data-v-379a6f7a {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.content .image.data-v-379a6f7a {
+  width: 170rpx;
+  height: 170rpx;
+  margin-bottom: 10rpx;
+}
+.content .title.data-v-379a6f7a {
+  margin-bottom: 100rpx;
+}
+.text.data-v-379a6f7a {
+  margin: 40rpx 0;
+  display: flex;
+  flex-direction: column;
+}
+page.data-v-379a6f7a {
+  padding: 40rpx 40rpx;
+  height: vh;
+}
+.icon-weixin.data-v-379a6f7a {
+  font-size: 40rpx;
+  margin-right: 10rpx;
+}
+.btn.data-v-379a6f7a {
+  color: #fff;
+  width: 90%;
+  height: 90rpx;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #00C260;
+  border-radius: 45rpx;
+  box-shadow: 0 0 15rpx #00C260;
+  margin-top: 60rpx;
+}
+

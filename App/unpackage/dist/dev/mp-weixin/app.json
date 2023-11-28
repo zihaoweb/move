@@ -1,0 +1,51 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/Repair/Repair",
+    "pages-subpackages/OrderDesc/OrderDesc",
+    "pages/Mine/Mine",
+    "pages-subpackages/Analysis/Analysis",
+    "pages-subpackages/Feedback/Feedback",
+    "pages-subpackages/Introduce/Introduce",
+    "pages-subpackages/Login/Login",
+    "pages-subpackages/MyRepair/MyRepair",
+    "pages-subpackages/Suggestion/Suggestion",
+    "pages-subpackages/Tips/Tips",
+    "pages-subpackages/Video/Video",
+    "pages-subpackages/Admin/Admin",
+    "pages-subpackages/Repairer/Repairer",
+    "pages-subpackages/selectDispatch/selectDispatch",
+    "pages-subpackages/rejectReason/rejectReason"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#7a7e83",
+    "selectedColor": "#00C260",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "static/img/index.png",
+        "selectedIconPath": "static/img/indexSelected.png"
+      },
+      {
+        "pagePath": "pages/Repair/Repair",
+        "text": "开始报修"
+      },
+      {
+        "pagePath": "pages/Mine/Mine",
+        "text": "我的",
+        "iconPath": "static/img/my.png",
+        "selectedIconPath": "static/img/mySelected.png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}
